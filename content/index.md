@@ -6,7 +6,7 @@ title: Pagina di Test
 
 prova sync
 
- [[Altro file]]
+ [[Altro file]]  
  [[Altro file 2]]
 
 This is a blank Quartz installation.
